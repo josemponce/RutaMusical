@@ -9,3 +9,11 @@ Se tendrían que planificar varias rutas, cada una de varios días en una locali
 ## Configuracion del repositorio
 
 - [Configuración Clave SSH](https://github.com/josemponce/RutaMusical/blob/Objetivo-0/docs/ConfiguracionSSH.png)
+
+## Historias de Usuarios
+
+- [Historias de Usuarios](https://github.com/josemponce/RutaMusical/docs/historias.md)
+
+## Milestones
+
+- [Milestones](https://github.com/josemponce/RutaMusical/docs/milestones.md)
