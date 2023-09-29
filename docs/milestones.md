@@ -21,5 +21,5 @@
 ## [M3] Implementación de planificación diaria para los músicos
 
  - El objetivo será implementar una clase o modulo que cree una lista de asistencia a cada concierto procurando que todos los músicos puedan descansar lo máximo posible.
- - Obteniedno una clase o modulo que implemente dicha funcionalidad.
+ - Obteniendo una clase o modulo que implemente dicha funcionalidad.
  - Deberá compilar y pasar los test
