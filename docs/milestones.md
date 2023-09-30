@@ -14,7 +14,7 @@
 
 ## [M2] Implementación de la creación de la ruta óptima
 
- - El obejtivo será implementar una clase o modulo que pueda calcular un recorrido que máximice la posible ganancia de la agrupación musical.
+ - El objetivo será implementar una clase o modulo que pueda calcular un recorrido que máximice la posible ganancia de la agrupación musical.
  - Obteniendo una clase o modulo que implemente dicha funcionalidad.
  - Deberá compilar y pasar los test.
 
