@@ -1,6 +1,11 @@
 package internal
 
 type Ruta struct {
-	Conciertos 		[]Concierto
+	Conciertos 		[]ConciertoConMusico
 	GananciaTotal 		float64
+}
+
+type ConciertoConMusico struct {
+	Concierto		Concierto
+	MusicosAsignados	[]Musico
 }
