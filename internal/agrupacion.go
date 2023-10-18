@@ -1,7 +1,7 @@
 package internal
 
 type AgrupacionMusical struct {
-	NombreAgrupacion 	string
+	NombreAgrupacion 		string
 	Musicos 			[]Musico
 	
 	// Coordenadas pueblo de la agrupacion

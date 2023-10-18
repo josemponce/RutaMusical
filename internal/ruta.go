@@ -1,6 +1,6 @@
 package internal
 
 type Ruta struct {
-	Conciertos 			[]Concierto
+	Conciertos 		[]Concierto
 	GananciaTotal 		float64
 }
