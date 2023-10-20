@@ -8,5 +8,5 @@ type Concierto struct {
 	NombrePueblo 		string
 	DineroPagado 		float64
 	Duracion 		int // minutos
-	Distancia		float64 // km
+	Costes			float64 
 }
