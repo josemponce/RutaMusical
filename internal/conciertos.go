@@ -7,6 +7,6 @@ type Concierto struct {
 	HoraInicio 		time.Time
 	NombrePueblo 		string
 	DineroPagado 		float64
-	Duracion 		int // minutos
+	DuracionMinutos	int 
 	Costes			float64 
 }
