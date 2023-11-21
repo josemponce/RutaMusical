@@ -17,3 +17,14 @@ Se tendrían que planificar varias rutas, cada una de varios días en una locali
 ## Milestones
 
 - [Milestones](https://github.com/josemponce/RutaMusical/blob/Objetivo-1/docs/milestones.md)
+
+## Herramientas Utilizadas
+
+- Gestor de dependencias elegido es el oficial del equipo, **Go Modules**.
+
+- Gestor de Tareas: **Task**
+
+    - task build: para construir el proyecto.
+    - task test: para ejecutar los test.
+    - task run: para ejecutar el proyecto.
+    - task check: para comprobar la sintaxis del código.
