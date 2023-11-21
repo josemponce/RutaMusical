@@ -1,0 +1,27 @@
+version: '3'
+
+env:
+  PROGRAM: ruta_musical
+
+tasks:
+
+  build:
+    cmds:
+      - echo "Construyendo el proyecto..."
+      - go build -o $PROGRAM
+
+  test:
+    cmds:
+      - echo "Realizando tests..."
+      - go test ./test 
+
+  run: build 
+    cmds:
+      - echo "Ejecutando el proyecto..."
+      - ./$PROGRAM
+
+  check:
+    cmds:
+      - echo "Comprobando sintaxis..."
+      - go gofmt -l -s -w .
+      - go vet ./...
