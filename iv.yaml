@@ -1,2 +1,5 @@
 lenguaje: Go
 entidad: internal/conciertos.go
+automatizar:
+  fichero: taskfile.yaml
+  orden: task
